@@ -1,5 +1,6 @@
+# TypeScript Training
 
-# TypeScript
+Training related to SharpCoders2 Technology Program, a partnership between [Imã Tech](https://imatech.io/) and [MXM Sistemas](https://www.mxm.com.br/). <br>
 
 [![GitHub Actions CI](https://github.com/microsoft/TypeScript/workflows/CI/badge.svg)](https://github.com/microsoft/TypeScript/actions?query=workflow%3ACI)
 [![npm version](https://badge.fury.io/js/typescript.svg)](https://www.npmjs.com/package/typescript)
